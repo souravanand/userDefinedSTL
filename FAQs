@@ -1,0 +1,7 @@
+1)Why we use const in Copy constrcutor?
+2)why can't we overload << inside class?
+3)why we use & in copy constrcutor?
+4)why we return reference for copy assignment
+https://stackoverflow.com/questions/3105798/why-must-the-copy-assignment-operator-return-a-reference-const-reference#:~:text=If%20you%20return%20a%20reference,assignment%20operator%20is%20called!!
+to support chaining assignment
+5)
