@@ -4,4 +4,15 @@
 4)why we return reference for copy assignment
 https://stackoverflow.com/questions/3105798/why-must-the-copy-assignment-operator-return-a-reference-const-reference#:~:text=If%20you%20return%20a%20reference,assignment%20operator%20is%20called!!
 to support chaining assignment
-5)
+5)Implement garbage collection in c++/Java
+6)Implement malloc/calloc
+7)Implement memcpy
+8)Implement pair
+9)Implement set
+10)Implement open addressing 
+11)rule of 5/3/0
+12)Virtual 
+13)Vtable
+14)abstract/Interface
+15)Inheritance
+16)Diamond Problem
