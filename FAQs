@@ -16,3 +16,79 @@ to support chaining assignment
 14)abstract/Interface
 15)Inheritance
 16)Diamond Problem
+
+1)why tickerplantbuilder not abstract?
+2)IS build_pipeline a director?
+3)pipeline_starter is a builder,and run can be called as director?
+
+builder design pattern
+factory design
+singleton
+decorator
+adapter
+aggregation,inheritance,associtation,composition
+
+
+virtual table
+vrtual constructor
+unique_ptr
+shared_ptr
+auto_ptr
+weak_ptr
+exception_handling
+threading 
+static class and member
+abstrcation and encapsulation example
+inline
+lambda function
+
+
+
+Implementation
+
+map -:open addressing
+unique hash
+pair
+set
+unique_ptr
+shared_ptr
+weak_ptr
+list
+priority queue
+
+
+shared memory LVC cache 
+stats store 
+rtp
+cfh 
+UDP TCP
+fault tolerant -: snapshot,stats store 
+
+path
+tree to leaf 
+tree to node 
+
+path sum -1
+path sum-ii
+
+coin change 
+
+kth smallest element
+flip
+gray code
+kth symbol 
+
+pallindromic subsequence
+parenthesis
+
+prime 
+GCD
+combinatorics
+modulo arithmetic
+https://leetcode.com/problems/basic-calculator/discuss/1457045/C%2B%2B-oror-Explained-oror-Stacks-oror-Beginner-FriendlyEasy-To-Understand
+
+min stack 
+https://leetcode.com/problemset/all/?search=subarray&page=1
+
+
+
